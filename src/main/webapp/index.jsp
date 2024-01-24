@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	1. git   eclipse  !!! !!!!
-	수정수정수정~~
-	브랜치수정  ddd
+	1. 하연쓰가 올림~~~
 </body>
 </html>
